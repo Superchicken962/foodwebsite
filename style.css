@@ -1,0 +1,31 @@
+.center-text {
+  text-align: center;
+}
+
+.box-gold {
+  text-align: center;
+  padding: 15px;
+  background-color: gold;
+  border: 10px outset gold;
+  font-size: 30px;
+  width: 60%;
+  margin: auto;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  display: block;
+}
+
+.box-gold:active {
+  text-align: center;
+  padding: 15px;
+  background-color: gold;
+  border: 10px inset gold;
+  font-size: 30px;
+  width: 60%;
+  margin: auto;
+  position: relative;
+  text-decoration: none;
+  color: black;
+  display: block;
+}
